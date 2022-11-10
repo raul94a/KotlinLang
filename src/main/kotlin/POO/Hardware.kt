@@ -1,4 +1,0 @@
-package POO
-
-class Hardware {
-}
